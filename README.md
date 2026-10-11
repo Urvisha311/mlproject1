@@ -40,7 +40,3 @@ K-Nearest Neighbors (KNN)
 5. Make predictions
 6. Evaluate model accuracy
 7. Visualize the classification results
-
-## Author
-
-Urvisha Patel
